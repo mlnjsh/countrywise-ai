@@ -90,3 +90,34 @@ Know something we missed? Have updated data? Open a PR!
 ---
 
 *Maintained by [Milan Amrut Joshi](https://github.com/mlnjsh) — Professor of Data Science, Northwestern University*
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/stanford-crfm">
+        <img src="https://github.com/stanford-crfm.png" width="80px;" alt="Stanford CRFM"/><br />
+        <sub><b>Stanford CRFM</b></sub>
+      </a><br />
+      <sub>AI Index Report, Foundation Models</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/oecd-ai">
+        <img src="https://github.com/oecd-ai.png" width="80px;" alt="OECD AI"/><br />
+        <sub><b>OECD AI</b></sub>
+      </a><br />
+      <sub>AI policy observatory</sub>
+    </td>
+  </tr>
+</table>
